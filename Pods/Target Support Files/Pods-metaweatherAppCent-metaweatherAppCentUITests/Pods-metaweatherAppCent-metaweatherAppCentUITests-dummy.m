@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_metaweatherAppCent_metaweatherAppCentUITests : NSObject
+@end
+@implementation PodsDummy_Pods_metaweatherAppCent_metaweatherAppCentUITests
+@end
